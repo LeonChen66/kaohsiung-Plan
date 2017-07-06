@@ -1,14 +1,14 @@
 # kaohsiung-Plan
 
-kaohsiung-Plan data arrangement(photos and txt to kml)<br />
---Kao_data.py  <br />
-  input text file  <br />
-  --點之記(directory for photos)  <br />
+kaohsiung-Plan data arrangement(photos and txt to kml)
+--Kao_data.py  
+  input text file (.txt)
+  --點之記(directory for photos) 
 
-command input:<br />
-usage:<br />
-  -h: for the help and examplt<br />
-  -i: input file<br />
+command input:
+usage:
+  -h: for the help and examplt
+  -i: input file
   
 Example:<br />
-  python Kao_data.py -i inputfilenname(txt)<br />
+  python Kao_data.py -i inputfilenname(txt)
