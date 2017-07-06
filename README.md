@@ -2,10 +2,10 @@
 
 kaohsiung-Plan data arrangement(photos and txt to kml)
   
---Kao_data.py  
-    input text file (.txt)
-    
-    --點之記(directory for photos) 
+--Kao_data.py　
+　input text file (.txt)
+    
+　　--點之記(directory for photos) 
 
 command input:
 usage:
