@@ -2,7 +2,8 @@
 Requirement
 * 
 
-===========================
+---------------------------------------
+
 
 kaohsiung-Plan data arrangement(photos and txt to kml)
 </br>
@@ -10,9 +11,10 @@ kaohsiung-Plan data arrangement(photos and txt to kml)
 |-input text file (.txt)</br>
 |----點之記(directory for photos)</br>   
 
-=============================
+---------------------------------------
 
-# command input:
+
+command input:
 usage:  
  　-h: for the help and example
  　-i: input file 
