@@ -1,8 +1,10 @@
 # kaohsiung-Plan
-Requirement
+## Requirement
 
 * simplekml
 * twd97
+* numpy
+* pandas
 
 ---------------------------------------
 
