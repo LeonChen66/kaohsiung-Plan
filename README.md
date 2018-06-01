@@ -1,6 +1,8 @@
 # kaohsiung-Plan
 Requirement
-* 
+
+* simplekml
+* twd97
 
 ---------------------------------------
 
