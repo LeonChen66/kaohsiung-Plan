@@ -12,7 +12,7 @@ kaohsiung-Plan data arrangement(photos and txt to kml)
 
 =============================
 
-command input:
+# command input:
 usage:  
  　-h: for the help and example
  　-i: input file 
